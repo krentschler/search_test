@@ -9,4 +9,3 @@ hello
 
 print(x)
 
-y = 'kylesupersecret123'
