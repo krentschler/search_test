@@ -5,7 +5,7 @@ other_Secret = "WarriorsFan19"
 
 x = 3
 
-hello
+y = "plsfindmys3cr3t!"
 
 print(x)
 
